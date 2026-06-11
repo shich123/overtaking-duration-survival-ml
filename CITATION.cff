@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or processed dataset, please cite the associated manuscript."
+title: "Code and processed data for overtaking-duration survival modeling on rural two-lane highways"
+authors:
+  - family-names: "Shi"
+    given-names: "Chuanhe"
+  - family-names: "Yang"
+    given-names: "Wenchen"
+version: "1.0.0"
+date-released: "2026-06-11"
